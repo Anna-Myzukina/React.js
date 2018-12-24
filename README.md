@@ -1,6 +1,7 @@
 # React.js
 Подробное руководство по React.js в 2018 г
 
+https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/#comment-108
 
 Эта статья была впервые опубликована в 2015 году, на данный момент она дополнена под версию React 16.3 и ее особенности.
 
